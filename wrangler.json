@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "d1-nz-trip",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "7a7142a2-c31c-410b-b198-69c222051ecb",
+			"database_name": "nz-trip-db"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
